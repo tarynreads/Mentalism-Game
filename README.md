@@ -35,4 +35,3 @@ Well, Taryn let me read your mind... The number that you have now is 5.
 ## Author
 
 Created by Taryn Sola
-GitHub: github.com/tarynsola
